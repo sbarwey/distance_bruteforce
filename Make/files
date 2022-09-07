@@ -1,0 +1,5 @@
+distance.C
+
+EXE = $(FOAM_USER_APPBIN)/distance_field
+
+
